@@ -10,5 +10,14 @@
     body{
         background-color: aquamarine;
     }
+    button{
+        width: 75px;
+        height: 75px;
+        margin: 25px 20px 0px 33px;
+        background-color: aqua;
+        font-size: 40px;
+        border: 2px solid aqua;
+        border-radius: 10px;
+    }
     
 }
