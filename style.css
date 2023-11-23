@@ -1,0 +1,55 @@
+.one {
+    width: 25%;
+    height: 450px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+body{
+    background-color: aquamarine;
+}
+.add {
+    color: blue;
+}
+.divide {
+    color: blue;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    padding-top: 15px;
+    font-family: serif;
+}
+
+#first {
+    margin: 10px 0px 10px 33px;
+    width: 75%;
+    height: 30px;
+}
+#second {
+    margin-left: 33px;
+    width: 75%;
+    height: 30px;
+}
+button{
+    width: 75px;
+    height: 75px;
+    margin: 25px 20px 0px 45px;
+    background-color: aqua;
+    font-size: 40px;
+    border: 2px solid aqua;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+#equal {
+    background-color: wheat;
+    width: 75%;
+    height: 25px;
+    margin: 10px 0px 10px 34px;
+    padding-top: 8px;
+    padding-left: 5px;
+    border-radius: 2px;
+}
